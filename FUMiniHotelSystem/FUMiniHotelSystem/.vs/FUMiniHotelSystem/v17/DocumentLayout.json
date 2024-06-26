@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPTU\\Semester 5\\PRN212\\assignment 2\\FUMiniHotelSystem\\FUMiniHotelSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87550EDD-230B-486C-A481-5F37875421CA}|FUMiniHotelSystem.csproj|d:\\fptu\\semester 5\\prn212\\assignment 2\\fuminihotelsystem\\fuminihotelsystem\\createreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87550EDD-230B-486C-A481-5F37875421CA}|FUMiniHotelSystem.csproj|solutionrelative:createreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87550EDD-230B-486C-A481-5F37875421CA}|FUMiniHotelSystem.csproj|d:\\fptu\\semester 5\\prn212\\assignment 2\\fuminihotelsystem\\fuminihotelsystem\\createreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87550EDD-230B-486C-A481-5F37875421CA}|FUMiniHotelSystem.csproj|solutionrelative:createreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateReportWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPTU\\Semester 5\\PRN212\\assignment 2\\FUMiniHotelSystem\\FUMiniHotelSystem\\CreateReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CreateReportWindow.xaml.cs",
+              "ToolTip": "D:\\FPTU\\Semester 5\\PRN212\\assignment 2\\FUMiniHotelSystem\\FUMiniHotelSystem\\CreateReportWindow.xaml.cs",
+              "RelativeToolTip": "CreateReportWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:33:41.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateReportWindow.xaml",
+              "DocumentMoniker": "D:\\FPTU\\Semester 5\\PRN212\\assignment 2\\FUMiniHotelSystem\\FUMiniHotelSystem\\CreateReportWindow.xaml",
+              "RelativeDocumentMoniker": "CreateReportWindow.xaml",
+              "ToolTip": "D:\\FPTU\\Semester 5\\PRN212\\assignment 2\\FUMiniHotelSystem\\FUMiniHotelSystem\\CreateReportWindow.xaml",
+              "RelativeToolTip": "CreateReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T17:33:38.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
