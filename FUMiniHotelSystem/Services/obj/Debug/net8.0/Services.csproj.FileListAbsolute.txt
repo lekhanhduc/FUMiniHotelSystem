@@ -38,3 +38,23 @@ D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\Services\obj\Debug\net8
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\Services\obj\Debug\net8.0\refint\Services.dll
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\Services\obj\Debug\net8.0\Services.pdb
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\Services\obj\Debug\net8.0\ref\Services.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\Services.sourcelink.json
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\Services.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\refint\Services.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\Services.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\bin\Debug\net8.0\Services.deps.json
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\bin\Debug\net8.0\Services.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\bin\Debug\net8.0\Services.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\bin\Debug\net8.0\BusinessObject.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\bin\Debug\net8.0\DataAccessLayer.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\bin\Debug\net8.0\Repositories.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\bin\Debug\net8.0\BusinessObject.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\bin\Debug\net8.0\Repositories.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Services\obj\Debug\net8.0\ref\Services.dll

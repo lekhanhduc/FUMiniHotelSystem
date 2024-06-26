@@ -30,3 +30,19 @@ D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\DataAccessLayer\obj\Deb
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\bin\Debug\net8.0\BusinessObject.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\bin\Debug\net8.0\BusinessObject.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

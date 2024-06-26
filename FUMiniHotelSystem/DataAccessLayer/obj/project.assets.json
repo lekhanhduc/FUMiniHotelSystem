@@ -3132,24 +3132,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GIA KHANH\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPTU\\Semester 5\\PRN212\\assignment 2\\FUMiniHotelSystem\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\FPTU\\Semester 5\\PRN212\\assignment 2\\FUMiniHotelSystem\\DataAccessLayer\\DataAccessLayer.csproj",
-      "packagesPath": "C:\\Users\\GIA KHANH\\.nuget\\packages\\",
-      "outputPath": "D:\\FPTU\\Semester 5\\PRN212\\assignment 2\\FUMiniHotelSystem\\DataAccessLayer\\obj\\",
+      "projectPath": "C:\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccessLayer\\DataAccessLayer.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\FUMiniHotelSystem\\FUMiniHotelSystem\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\GIA KHANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3163,8 +3158,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\FPTU\\Semester 5\\PRN212\\assignment 2\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\FPTU\\Semester 5\\PRN212\\assignment 2\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj"
+            "C:\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "C:\\FUMiniHotelSystem\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj"
             }
           }
         }

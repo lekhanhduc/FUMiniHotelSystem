@@ -13,6 +13,8 @@ namespace Services
         void UpdateCustomer(Customer customer);
         void DeleteCustomer(Customer customer);
 
+        Customer GetCustomerByEmail(string email);
+
         List<Customer> GetCustomerList();
 
         Customer GetCustomerById(string id);

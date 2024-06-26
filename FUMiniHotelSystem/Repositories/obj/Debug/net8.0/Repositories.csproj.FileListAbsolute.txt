@@ -34,3 +34,21 @@ D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\Repositories\obj\Debug\
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\refint\Repositories.dll
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.pdb
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\BusinessObject.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\BusinessObject.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\ref\Repositories.dll

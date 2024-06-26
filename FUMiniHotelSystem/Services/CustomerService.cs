@@ -41,5 +41,10 @@ namespace Services
         {
             iCustomerRepository.UpdateCustomer(customer);
         }
+
+        public Customer GetCustomerByEmail(string email)
+        {
+            return iCustomerRepository.GetCustomerByEmail(email);
+        }
     }
 }

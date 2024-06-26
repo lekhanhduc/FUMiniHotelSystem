@@ -2,7 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\BusinessObject",
-    "\\FUMiniHotelSystem"
+    "\\BusinessObject\\bin",
+    "\\BusinessObject\\bin\\Debug",
+    "\\BusinessObject\\bin\\Debug\\net8.0",
+    "\\DataAccessLayer",
+    "\\FUMiniHotelSystem",
+    "\\Repositories",
+    "\\Services"
   ],
+  "SelectedNode": "\\FUMiniHotelSystem\\LoginWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

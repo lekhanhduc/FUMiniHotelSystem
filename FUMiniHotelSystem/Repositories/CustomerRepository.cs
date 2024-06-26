@@ -21,5 +21,7 @@ namespace Repositories
 
         public void DeleteCustomer(Customer customer) => CustomerDAO.DeleteCustomer(customer);
 
+        public Customer GetCustomerByEmail(string email) => CustomerDAO.GetCustomerByEmail(email);
+       
     }
 }

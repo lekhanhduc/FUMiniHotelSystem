@@ -33,21 +33,27 @@ namespace FUMiniHotelSystem
 
         private void btnLogin_Click(object sender, RoutedEventArgs e)
         {
-            Customer account = iCustomerService.GetCustomerById(txtUser.Text);
-            if (account != null && account.Password.Equals(txtPass.Password) && account.CustomerFullName.Equals("William Shakespeare"))
-            { 
-                this.Hide();
-                MainWindow mainWindow = new MainWindow();
-                mainWindow.Show();
-            }else if (account != null && account.Password.Equals(txtPass.Password))
+            Customer account = iCustomerService.GetCustomerByEmail(txtUser.Text);
+
+            // Kiểm tra tài khoản và mật khẩu
+            if (account != null && account.Password.Equals(txtPass.Password))
             {
-                this.Hide();
-                CustomerProfile customerProfile = new CustomerProfile(account);
-                customerProfile.Show();
+                if (account.CustomerFullName.Equals("William Shakespeare"))
+                {
+                    this.Hide();
+                    MainWindow mainWindow = new MainWindow();
+                    mainWindow.Show();
+                }
+                else
+                {
+                    this.Hide();
+                    CustomerProfile customerProfile = new CustomerProfile(account);
+                    customerProfile.Show();
+                }
             }
             else
             {
-                MessageBox.Show("You are not perrmision !");
+                MessageBox.Show("You are not permission!");
             }
         }
 

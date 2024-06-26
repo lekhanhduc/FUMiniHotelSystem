@@ -79,5 +79,11 @@ namespace DataAccessLayer
            using var db = new FuminiHotelManagementContext();
             return db.Customers.FirstOrDefault(c => c.CustomerFullName.Equals(customerId));
         }
+
+        public static Customer GetCustomerByEmail(string email)
+        {
+            using var db = new FuminiHotelManagementContext();
+            return db.Customers.FirstOrDefault(c => c.EmailAddress == email);
+        }
     }
 }

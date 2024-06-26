@@ -25,3 +25,18 @@ D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\BusinessObject\obj\Debu
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
 D:\FPTU\Semester 5\PRN212\assignment 2\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+C:\FUMiniHotelSystem\FUMiniHotelSystem\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll

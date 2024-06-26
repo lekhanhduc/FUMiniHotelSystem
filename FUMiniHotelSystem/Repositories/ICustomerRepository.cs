@@ -18,6 +18,8 @@ namespace Repositories
 
         void DeleteCustomer(Customer customer);
 
+        Customer GetCustomerByEmail(string email);
+
         Customer GetCustomerById(string id);
 
     }
